@@ -98,5 +98,8 @@
     "store": "https://skailar.cok",
     "status": "https://status.skailar.com",
     "discord": "https://discord.gg/skailar"
+  },
+  "metadata": {
+    "og:image": "https://cdn.skailar.com/favicon.ico"
   }
 }
